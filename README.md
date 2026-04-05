@@ -4,8 +4,6 @@
 
 Most PM frameworks were designed before AI changed what "building a product" means. This repo fills the gap: structured skills for discovery, strategy, execution, and leadership — extended with the engineering context you need when your product's core is a language model, an agent, or an AI-powered workflow.
 
-Built from real experience shipping AI products in production: [qTrack](https://qure.ai) (lung cancer follow-up AI, $2M+ in 6 months) and [SmartUI](https://lambdatest.com/smartui) (Visual AI agent, $3.5M revenue, 1000+ MAUs).
-
 ---
 
 ## Who this is for
@@ -164,7 +162,6 @@ The bar: every skill must be specific enough to be actionable, teach something n
 
 Built by [Jeevesh Jain](https://linkedin.com/in/jeevesh-jain-9b5014191) — AI-native PM who has shipped AI products at [Qure.ai](https://qure.ai) (healthcare AI) and [LambdaTest](https://lambdatest.com) (DevTools AI).
 
-Built using [Claude Code](https://claude.ai/code).
 
 ---
 
